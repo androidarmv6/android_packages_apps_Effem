@@ -10,6 +10,16 @@
     <string name="output_select">Audio Output</string>
     <string name="output_select_default">Automatic</string>
     <string name="output_select_loudspeaker">Loudspeaker</string>
+    <string name="bt_exit_behaviour">Set BT after exit FM</string>
+    <string name="bt_exit_behaviour_donothing">Keep BT status as on</string>
+    <string name="bt_exit_behaviour_restoreinitialbtstate">Restore initial BT state</string>
+    <string name="bt_exit_behaviour_prompt">Ask me</string>
+    <string name="bt_exit_behaviour_alwaysdisable">Disable bluetooth</string>
+    <string name="init_FM">Enabling Bluetooth for FM support\u2026</string>
+    <string name="need_bluetooth">Please enable Bluetooth</string>
+    <string name="prompt_disable_bt">Do you want to disable Bluetooth?</string>
+    <string name="prompt_yes">Yes</string>
+    <string name="prompt_no">No</string>
     <string name="fmradio">FM RADIO</string>
     <string name="dashes">- - - -</string>
     <string name="no_rds">NO RDS</string>
