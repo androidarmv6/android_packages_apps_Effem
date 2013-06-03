@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pty_names">
+        <item>Sconosciuto</item>
+        <item>Notizie</item>
+        <item>Attualità</item>
+        <item>Informazione</item>
+        <item>Sport</item>
+        <item>Istruzione</item>
+        <item>Teatro</item>
+        <item>Cultura</item>
+        <item>Scienza</item>
+        <item>Vario</item>
+        <item>Pop</item>
+        <item>Rock</item>
+        <item>Musica Leggera</item>
+        <item>Classica leggera</item>
+        <item>Classica seria</item>
+        <item>Altra musica</item>
+        <item>Tempo</item>
+        <item>Finanza</item>
+        <item>Bambini</item>
+        <item>Affari sociali</item>
+        <item>Religione</item>
+        <item>Phone In</item>
+        <item>Viaggio</item>
+        <item>Tempo libero</item>
+        <item>Jazz</item>
+        <item>Country</item>
+        <item>Nazionale</item>
+        <item>Vecchi successi</item>
+        <item>Folk</item>
+        <item>Documentario</item>
+        <item>Alarm test</item>
+        <item>Alarm</item>
+    </string-array>
+</resources>

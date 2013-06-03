@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Effem</string>
+    <string name="band_select">Seleziona Banda</string>
+    <string name="band_us">Stati Uniti</string>
+    <string name="band_eu">Europa</string>
+    <string name="band_ja">Giappone</string>
+    <string name="band_ch">Cina</string>
+    <string name="station_select">Preferiti</string>
+    <string name="output_select">Uscita Audio</string>
+    <string name="output_select_default">Automatica</string>
+    <string name="output_select_loudspeaker">Altoparlante</string>
+    <string name="bt_exit_behaviour">Impostazione BT in uscita</string>
+    <string name="bt_exit_behaviour_donothing">Mantieni attivo il BT</string>
+    <string name="bt_exit_behaviour_restoreinitialbtstate">Ripristina stato iniziale BT</string>
+    <string name="bt_exit_behaviour_prompt">Chiedimelo</string>
+    <string name="bt_exit_behaviour_alwaysdisable">Disabilita il bluetooth</string>
+    <string name="init_FM">Sto abilitando il Bluetooth per il supporto FM…</string>
+    <string name="need_bluetooth">Per favore abilita il Bluetooth</string>
+    <string name="prompt_disable_bt">Vuoi disabilitare il Bluetooth?</string>
+    <string name="prompt_yes">Sì</string>
+    <string name="prompt_no">No</string>
+    <string name="fmradio">FM RADIO</string>
+    <string name="dashes">- - - -</string>
+    <string name="no_rds">NO RDS</string>
+    <string name="no_stations">Nessuna stazione salvata</string>
+    <string name="scan_error">Impossibile avviare la scansione</string>
+    <string name="fm_start_error">Impossibile avviare il ricevitore radio</string>
+    <string name="seek_error">Impossibile cercare</string>
+    <string name="resume_error">Impossibile riprendere</string>
+    <string name="pause_error">Impossibile mettere in pausa</string>
+    <string name="busy_error">Occupato, per favore riprova</string>
+    <string name="no_headset_error">Per favore, connetti Auricolari/Cuffie</string>
+</resources>
