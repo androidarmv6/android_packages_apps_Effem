@@ -807,6 +807,10 @@ public class FmRadioService extends Service
         }
     }
 
+    public void setAudioOutput(int audioOutput) {
+        mAudioOutput = audioOutput;
+    }
+
     /**
      * Set bluetooth status after exit FM radio
      *

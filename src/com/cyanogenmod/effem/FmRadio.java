@@ -160,6 +160,7 @@ public class FmRadio extends Activity
         mService = ((FmRadioService.LocalBinder)binder).getService();
         mService.setFmBand(mSelectedBand);
         mService.setBluetoothExitBehaviour(mBluetoothExitBehaviour);
+        mService.setAudioOutput(mSelectedOutput);
         // start radio on initial start
         mWorkerHandler.post(new Runnable() { public void run() {
             if (context.getResources().getBoolean(R.bool.require_bt)) {
